@@ -1,0 +1,46 @@
+//q1
+
+  // List name = ["Asad", "Saad", "Danish"];
+  // for (var i = 0; i < name.length; i++) {
+  //   print(name[i]);
+  // }
+
+  //Q2
+  // List Weeks = [];
+  // Weeks.add('Mon');
+  // Weeks.add('Tue');
+  // Weeks.add('Wed');
+  // Weeks.add('Thu');
+  // Weeks.add('Fri');
+  // Weeks.add('Sat');
+  // Weeks.add('Sun');
+  // for (var i = 0; i < Weeks.length; i++) {
+  //   print(Weeks[i]);
+  // }
+
+  //Q3
+
+  // List Day = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"];
+  // Day.remove("Mon");
+  // Day.remove("Tue");
+  // Day.remove("Wed");
+
+  // Day.remove("Thu");
+  // Day.remove("Fri");
+  // Day.remove("Sat");
+  // Day.remove("Sun");
+  // if (Day.isEmpty) {
+  //   print("List is Clear");
+  // }
+
+//Q4
+  // List allNum = [12, 34, 43, 3, 434, 34];
+  // var lNum = allNum[0];
+  // var sNum = allNum[0];
+  // for (var i = 0; i < allNum.length; i++) {
+  //   if (allNum[i] > lNum) {
+  //     lNum = allNum[i];
+  //   }
+  //   if (allNum[i] < sNum) {
+  //     sNum = allNum[i];
+  //   }
